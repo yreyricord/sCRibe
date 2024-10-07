@@ -1,0 +1,10 @@
+# Project Configuration
+
+input:
+  source_path: "/Users/yreyricord/Documents/Projects/sCRibe/audios"  # Path to the folder containing input audio files
+
+output:
+  transcript_path: "/Users/yreyricord/Documents/Projects/sCRibe/transcripts/" # Path to save transcript files
+
+transcription:
+  enabled: true  # Set to true to enable transcription, false to disable it
